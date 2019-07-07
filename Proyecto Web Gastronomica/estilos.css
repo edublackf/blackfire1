@@ -1,0 +1,92 @@
+*							{	margin: 0;
+								padding: 0;							}
+
+body 						{	background:#F5CBA7					}
+
+header, .main, footer 		{	width: 95%;
+								max-width: 1000px;
+								margin:20px auto;					}
+
+header						{	background-color: #F7DC6F;			}
+
+.logo						{	float: right;	
+								width: 20%;							}
+
+.name 						{	float: left;
+								width: 80%;
+								text-align: center;
+								font-size: 60px;
+								padding-top:  30px;
+								color: #DC7633;
+								font-family: comic sans ms;
+								text-shadow: 7px 7px 7px #000		}
+
+header nav					{	width: 100%;
+								background:orange; 
+								overflow: hidden;					}
+
+header nav ul 				{	list-style: none;					}
+
+header nav ul li 			{	float: left; 						} 
+
+header nav ul li a 			{	padding: 10px 20px;
+								display: block;
+								color: black;
+								text-decoration: none;				}
+
+header nav ul li a:hover 	{	background: #F7DC6F;				}
+
+.main .articles 			{	width: 68.5%;
+								margin-right: 1.5%;
+								float: left;						}
+
+.main .articles article		{	padding: 20px;
+								background-color: #DC7633;
+								margin-bottom: 20px; 
+								font-family: comic sans ms;			}
+
+aside						{	width: 30%;
+								background:#DC7633;
+								float: left;
+								padding: 20px;
+								box-sizing: border-box; 
+								text-align: center;
+								font-family: comic sans ms;			}
+
+footer 						{	background-color: #F7DC6F;
+								color:black;
+								clear:both;
+								text-align:left; 
+								font-size: 20px;
+								font-family: cursive;				}
+
+footer nav					{	width: 100%;
+								overflow: hidden;					}
+
+footer nav ul 				{	list-style: none;					}
+
+footer nav ul li 			{	float: right;						}
+
+footer nav ul li a 			{	padding: 10px 20px;
+								display: block;
+								color: black;
+								text-decoration: none;				}
+
+footer nav ul li a:hover 	{	background: orange;					}
+
+.diseñado					{	width: 70%;
+								float: left;
+								padding-top:  10px;
+								text-align: center;
+								font-family: comic sans ms;			}
+
+.redes						{	width: 30%							}
+
+.sopas						{	width: 70%;							}
+
+
+
+
+
+
+
